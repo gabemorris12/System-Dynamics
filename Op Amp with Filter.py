@@ -70,4 +70,3 @@ ax.set_ylabel('Voltage ($V$)')
 ax.set_xlabel('Time ($s$)')
 ax.legend()
 plt.show()
-
